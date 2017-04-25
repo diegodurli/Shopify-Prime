@@ -8,6 +8,7 @@ export {
 import Shops from "./services/shops";
 import Blogs from "./services/blogs";
 import Orders from "./services/orders";
+import Products from "./services/products";
 import * as Auth from "./services/auth";
 import Charges from "./services/charges";
 import Articles from "./services/articles";
@@ -25,6 +26,7 @@ export {
     Shops,
     Blogs,
     Orders,
+    Products,
     Charges,
     Articles,
     Webhooks,
